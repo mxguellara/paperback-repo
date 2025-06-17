@@ -1,0 +1,12 @@
+{
+  "name": "Mi Repositorio",
+  "version": 1,
+  "extensions": [
+    {
+      "name": "Olympus Biblioteca",
+      "version": "1.0.0",
+      "lang": "es",
+      "url": "https://TUUSUARIO.github.io/paperback-repo/olympus.zip"
+    }
+  ]
+}
